@@ -1,6 +1,6 @@
 <h1> Hi, I'm Leonardo Albornoz! <img src="https://media1.giphy.com/media/yrhhmre5fN2PtRujfo/giphy-downsized-medium.gif" width="70"/>
 <img align='right' src="https://media4.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif" width="230"/>
-<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<p><em>Remote Full-stack web developer ready for adventure</em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Albornoz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-albornoz-216784198/)](https://www.linkedin.com/in/leonardo-albornoz-216784198/)
 [![Twitter Badge](https://img.shields.io/badge/-@Leboroz_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Leboroz)](https://twitter.com/Leboroz)
@@ -15,7 +15,7 @@ const leonardoAlbornoz = {
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, Material UI],
   askMeAbout: [Video-games, coffee, food recipes, anime],
   challenge: "I am honing my React skills and picking up Vue",
-  funFacts: ['I have 1 years of remote work experience with devs
+  facts: ['I have 1 years of remote work experience with devs
   from all over the world',
   'I worked at McDonalds for almost 5 years and got a manager position']
 }
