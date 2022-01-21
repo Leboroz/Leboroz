@@ -49,3 +49,42 @@ const leonardoAlbornoz = {
 <a href="https://github.com/leboroz/to-do-list">
   <img  style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=leboroz&repo=to-do-list&theme=radical" />
 </a>
+
+<br>
+<br>
+
+## 💼 Skills
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=Rails&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)
+
+
+
+<details>
+<summary>More Skills</summary>
+<br>
+
+## 📋 Database and other languages
+
+
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/DataStructure-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+
+
+<br>
+
+## 🌐 Additional tools
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
+
+</details>
