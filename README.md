@@ -23,9 +23,29 @@ const leonardoAlbornoz = {
 
 <br>
 <a href="https://github.com/leboroz">
-  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Leboroz&show_icons=true&theme=radical">
+  <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Leboroz&show_icons=true&theme=radical">
 </a>
 <a href="https://github.com/leboroz">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leboroz&theme=radical" />
 </a>
 <br>
+<br>
+
+
+## 📌 Pinned Repositories
+
+<a href="https://github.com/leboroz/capstone-project-1">
+  <img  style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=leboroz&repo=capstone-project-1&theme=radical" />
+</a>
+
+<br>
+
+<a href="https://github.com/leboroz/personal-portfolio">
+  <img  style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=leboroz&repo=personal-portfolio&theme=radical" />
+</a>
+
+<br>
+
+<a href="https://github.com/leboroz/to-do-list">
+  <img  style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=leboroz&repo=to-do-list&theme=radical" />
+</a>
