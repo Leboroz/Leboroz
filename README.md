@@ -9,12 +9,12 @@
 ### <img src="https://media3.giphy.com/media/7T200DTPdx31e/giphy.gif" width="50"/> A little more about me...
 
 ```javascript
-const leonardoAlbornoz = {
+const LEONARDO_ALBORNOZ = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "him"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, Material UI],
-  askMeAbout: [Video-games, coffee, food recipes, anime],
-  challenge: "I am honing my React skills and picking up Vue",
+  code: [JavaScript, React, Redux, RubyOnRails, HTML_CSS, SemanticUI, Bootstrap, MaterialUI],
+  askMeAbout: [videoGames, coffee, foodRecipes, anime],
+  challenge: "I am honing my Javascript skills and solving a lot of algorithm",
   facts: ['I have 1 years of remote work experience with devs
   from all over the world',
   'I worked at McDonalds for almost 5 years and got a manager position']
