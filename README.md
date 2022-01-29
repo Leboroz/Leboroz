@@ -31,28 +31,6 @@ const LEONARDO_ALBORNOZ = {
 <br>
 <br>
 
-
-## 📌 Pinned Repositories
-
-<a href="https://github.com/leboroz/capstone-project-1">
-  <img  style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=leboroz&repo=capstone-project-1&theme=radical" />
-</a>
-
-<br>
-
-<a href="https://github.com/leboroz/personal-portfolio">
-  <img  style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=leboroz&repo=personal-portfolio&theme=radical" />
-</a>
-
-<br>
-
-<a href="https://github.com/leboroz/to-do-list">
-  <img  style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=leboroz&repo=to-do-list&theme=radical" />
-</a>
-
-<br>
-<br>
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
